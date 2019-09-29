@@ -1,0 +1,49 @@
+body{
+    text-align:center;
+	background-color: 	#F5DEB3;
+}
+.Joueur1 {
+	background-color:#599bb3;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.Joueur1:hover {
+	background-color:#408c99;
+}
+.Joueur1:active {
+	position:relative;
+	top:1px;
+}
+
+.Joueur2 {
+	background-color:#fa0000;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.Joueur2:hover {
+	background-color:#e01616;
+}
+.Joueur2:active {
+	position:relative;
+	top:1px;
+}
